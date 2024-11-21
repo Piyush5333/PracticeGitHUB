@@ -15,6 +15,7 @@ public class AccountPage {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       System.out.println("Addition of Account Page");
+      System.out.println("Account Page 1");
 	}
 
 }
